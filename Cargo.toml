@@ -23,7 +23,9 @@ members = [
     "four_sum",
     "remove_nth_node_from_end_of_list",
     "valid_parentheses",
-    "merge_two_sorted_lists"
+    "merge_two_sorted_lists",
+    "generate_parentheses",
+    "swap_nodes_in_pairs"
 ]
 
 [dependencies]

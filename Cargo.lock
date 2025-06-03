@@ -19,6 +19,10 @@ name = "four_sum"
 version = "0.1.0"
 
 [[package]]
+name = "generate_parentheses"
+version = "0.1.0"
+
+[[package]]
 name = "integer_to_roman"
 version = "0.1.0"
 
@@ -60,6 +64,10 @@ version = "0.1.0"
 
 [[package]]
 name = "string_to_integer_atoi"
+version = "0.1.0"
+
+[[package]]
+name = "swap_nodes_in_pairs"
 version = "0.1.0"
 
 [[package]]

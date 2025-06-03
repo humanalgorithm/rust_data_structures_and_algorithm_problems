@@ -1,0 +1,1 @@
+/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/libgenerate_parentheses.rlib: /Users/michael/coding_env/data_structures_algorithms_rust/generate_parentheses/src/data.rs /Users/michael/coding_env/data_structures_algorithms_rust/generate_parentheses/src/lib.rs /Users/michael/coding_env/data_structures_algorithms_rust/generate_parentheses/src/solution.rs
