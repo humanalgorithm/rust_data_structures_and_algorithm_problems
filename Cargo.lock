@@ -7,6 +7,10 @@ name = "add_two_numbers"
 version = "0.1.0"
 
 [[package]]
+name = "combination_sum"
+version = "0.1.0"
+
+[[package]]
 name = "container_with_most_water"
 version = "0.1.0"
 
