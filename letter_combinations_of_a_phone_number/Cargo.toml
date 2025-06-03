@@ -1,0 +1,11 @@
+[package]
+name = "letter_combinations_of_a_phone_number"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "letter_combinations_of_a_phone_number"
+path = "src/bin/execute.rs"

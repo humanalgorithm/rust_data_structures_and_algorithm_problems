@@ -3,9 +3,7 @@ pub fn three_sum_closest(nums: Vec<i32>, target: i32) -> i32 {
     let mut nums = nums;
     nums.sort();
     let nums_len = nums.len();
-    println!("before pow");
     let mut closest_target = i32::MAX;
-    println!("cloest target {:?}", closest_target);
 
     while l < nums_len - 2 {
         let mut m = l + 1;

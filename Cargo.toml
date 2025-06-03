@@ -18,7 +18,8 @@ members = [
     "roman_to_integer",
     "longest_common_prefix",
     "three_sum",
-    "three_sum_closest"
+    "three_sum_closest",
+    "letter_combinations_of_a_phone_number"
 ]
 
 [dependencies]
