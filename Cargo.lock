@@ -51,5 +51,9 @@ name = "three_sum"
 version = "0.1.0"
 
 [[package]]
+name = "three_sum_closest"
+version = "0.1.0"
+
+[[package]]
 name = "two_sum"
 version = "0.1.0"

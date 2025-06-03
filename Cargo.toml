@@ -17,7 +17,8 @@ members = [
     "integer_to_roman",
     "roman_to_integer",
     "longest_common_prefix",
-    "three_sum"
+    "three_sum",
+    "three_sum_closest"
 ]
 
 [dependencies]
