@@ -14,7 +14,8 @@ members = [
     "string_to_integer_atoi",
     "palindrome_number",
     "container_with_most_water",
-    "integer_to_roman"
+    "integer_to_roman",
+    "roman_to_integer"
 ]
 
 [dependencies]
