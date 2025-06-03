@@ -47,5 +47,9 @@ name = "string_to_integer_atoi"
 version = "0.1.0"
 
 [[package]]
+name = "three_sum"
+version = "0.1.0"
+
+[[package]]
 name = "two_sum"
 version = "0.1.0"
