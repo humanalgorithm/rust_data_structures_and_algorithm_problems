@@ -11,7 +11,8 @@ members = [
     "longest_substring_without_repeating_characters", 
     "longest_palindromic_substring",
     "reverse_integer",
-    "string_to_integer_atoi"
+    "string_to_integer_atoi",
+    "palindrome_number"
 ]
 
 [dependencies]
