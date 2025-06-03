@@ -1,0 +1,11 @@
+[package]
+name = "container_with_most_water"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "container_with_most_water"
+path = "src/bin/execute.rs"

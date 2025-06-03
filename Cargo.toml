@@ -12,7 +12,8 @@ members = [
     "longest_palindromic_substring",
     "reverse_integer",
     "string_to_integer_atoi",
-    "palindrome_number"
+    "palindrome_number",
+    "container_with_most_water"
 ]
 
 [dependencies]
