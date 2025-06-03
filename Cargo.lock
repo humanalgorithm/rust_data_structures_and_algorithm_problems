@@ -43,6 +43,10 @@ name = "palindrome_number"
 version = "0.1.0"
 
 [[package]]
+name = "remove_nth_node_from_end_of_list"
+version = "0.1.0"
+
+[[package]]
 name = "reverse_integer"
 version = "0.1.0"
 
