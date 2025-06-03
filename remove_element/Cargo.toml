@@ -1,0 +1,11 @@
+[package]
+name = "remove_element"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "remove_element"
+path = "src/bin/execute.rs"

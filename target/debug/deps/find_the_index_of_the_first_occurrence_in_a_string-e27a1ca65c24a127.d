@@ -1,0 +1,5 @@
+/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/libfind_the_index_of_the_first_occurrence_in_a_string-e27a1ca65c24a127.rmeta: find_the_index_of_the_first_occurrence_in_a_string/src/bin/execute.rs
+
+/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/find_the_index_of_the_first_occurrence_in_a_string-e27a1ca65c24a127.d: find_the_index_of_the_first_occurrence_in_a_string/src/bin/execute.rs
+
+find_the_index_of_the_first_occurrence_in_a_string/src/bin/execute.rs:

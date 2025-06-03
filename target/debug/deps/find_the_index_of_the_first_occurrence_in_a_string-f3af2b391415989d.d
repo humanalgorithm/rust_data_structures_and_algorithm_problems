@@ -1,0 +1,5 @@
+/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/libfind_the_index_of_the_first_occurrence_in_a_string-f3af2b391415989d.rmeta: find_the_index_of_the_first_occurrence_in_a_string/src/bin/execute.rs
+
+/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/find_the_index_of_the_first_occurrence_in_a_string-f3af2b391415989d.d: find_the_index_of_the_first_occurrence_in_a_string/src/bin/execute.rs
+
+find_the_index_of_the_first_occurrence_in_a_string/src/bin/execute.rs:

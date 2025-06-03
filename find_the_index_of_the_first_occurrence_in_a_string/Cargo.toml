@@ -1,0 +1,11 @@
+[package]
+name = "find_the_index_of_the_first_occurrence_in_a_string"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "find_the_index_of_the_first_occurrence_in_a_string"
+path = "src/bin/execute.rs"
