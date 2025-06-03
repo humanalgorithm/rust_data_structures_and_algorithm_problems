@@ -1,0 +1,11 @@
+[package]
+name = "string_to_integer_atoi"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "string_to_integer_atoi"
+path = "src/bin/execute.rs"

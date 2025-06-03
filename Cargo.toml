@@ -6,11 +6,12 @@ edition = "2024"
 
 [workspace]
 members = [
-    "two_sum/",
-    "add_two_numbers/",
+    "two_sum",
+    "add_two_numbers",
     "longest_substring_without_repeating_characters", 
-    "longest_palindromic_substring/",
-    "reverse_integer/",
+    "longest_palindromic_substring",
+    "reverse_integer",
+    "string_to_integer_atoi"
 ]
 
 [dependencies]
