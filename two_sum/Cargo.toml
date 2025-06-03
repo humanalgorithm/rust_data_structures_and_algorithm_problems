@@ -1,0 +1,11 @@
+[package]
+name = "two_sum"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "two_sum"
+path = "src/bin/execute.rs"

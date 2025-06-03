@@ -3,9 +3,25 @@
 version = 4
 
 [[package]]
+name = "add_two_numbers"
+version = "0.1.0"
+
+[[package]]
 name = "data_structures_algorithms_rust_2"
 version = "0.1.0"
 
 [[package]]
-name = "hashmap"
+name = "longest_palindromic_substring"
+version = "0.1.0"
+
+[[package]]
+name = "longest_substring_without_repeating_characters"
+version = "0.1.0"
+
+[[package]]
+name = "reverse_integer"
+version = "0.1.0"
+
+[[package]]
+name = "two_sum"
 version = "0.1.0"
