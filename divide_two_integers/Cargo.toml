@@ -1,0 +1,11 @@
+[package]
+name = "divide_two_integers"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "divide_two_integers"
+path = "src/bin/execute.rs"
