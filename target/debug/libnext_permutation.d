@@ -1,0 +1,1 @@
+/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/libnext_permutation.rlib: /Users/michael/coding_env/data_structures_algorithms_rust/next_permutation/src/data.rs /Users/michael/coding_env/data_structures_algorithms_rust/next_permutation/src/lib.rs /Users/michael/coding_env/data_structures_algorithms_rust/next_permutation/src/solution.rs

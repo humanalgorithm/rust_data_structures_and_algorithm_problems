@@ -55,6 +55,10 @@ name = "merge_two_sorted_lists"
 version = "0.1.0"
 
 [[package]]
+name = "next_permutation"
+version = "0.1.0"
+
+[[package]]
 name = "palindrome_number"
 version = "0.1.0"
 
@@ -76,6 +80,10 @@ version = "0.1.0"
 
 [[package]]
 name = "roman_to_integer"
+version = "0.1.0"
+
+[[package]]
+name = "search_in_rotated_sorted_array"
 version = "0.1.0"
 
 [[package]]
