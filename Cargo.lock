@@ -15,6 +15,10 @@ name = "data_structures_algorithms_rust_2"
 version = "0.1.0"
 
 [[package]]
+name = "four_sum"
+version = "0.1.0"
+
+[[package]]
 name = "integer_to_roman"
 version = "0.1.0"
 
