@@ -1,0 +1,11 @@
+[package]
+name = "integer_to_roman"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "integer_to_roman"
+path = "src/bin/execute.rs"

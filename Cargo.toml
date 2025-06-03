@@ -13,7 +13,8 @@ members = [
     "reverse_integer",
     "string_to_integer_atoi",
     "palindrome_number",
-    "container_with_most_water"
+    "container_with_most_water",
+    "integer_to_roman"
 ]
 
 [dependencies]
