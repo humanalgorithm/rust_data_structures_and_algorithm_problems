@@ -21,7 +21,9 @@ members = [
     "three_sum_closest",
     "letter_combinations_of_a_phone_number",
     "four_sum",
-    "remove_nth_node_from_end_of_list"
+    "remove_nth_node_from_end_of_list",
+    "valid_parentheses",
+    "merge_two_sorted_lists"
 ]
 
 [dependencies]
