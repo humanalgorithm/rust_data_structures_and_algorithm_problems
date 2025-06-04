@@ -1,0 +1,11 @@
+[package]
+name = "longest_consecutive_sequence"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "longest_consecutive_sequence"
+path = "src/bin/execute.rs"
