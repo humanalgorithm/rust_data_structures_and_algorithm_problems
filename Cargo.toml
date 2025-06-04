@@ -47,7 +47,8 @@ members = [
     "jump_game",
     "merge_intervals",
     "insert_interval",
-    "unique_paths"
+    "unique_paths",
+    "minimum_path_sum"
 ]
 
 [dependencies]

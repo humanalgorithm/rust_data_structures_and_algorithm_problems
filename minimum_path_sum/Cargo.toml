@@ -1,0 +1,11 @@
+[package]
+name = "minimum_path_sum"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "minimum_path_sum"
+path = "src/bin/execute.rs"

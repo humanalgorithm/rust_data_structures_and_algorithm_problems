@@ -91,6 +91,10 @@ name = "merge_two_sorted_lists"
 version = "0.1.0"
 
 [[package]]
+name = "minimum_path_sum"
+version = "0.1.0"
+
+[[package]]
 name = "next_permutation"
 version = "0.1.0"
 
