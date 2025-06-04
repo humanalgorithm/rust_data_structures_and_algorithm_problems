@@ -1,0 +1,11 @@
+[package]
+name = "climbing_stairs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "climbing_stairs"
+path = "src/bin/execute.rs"

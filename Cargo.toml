@@ -50,7 +50,9 @@ members = [
     "unique_paths",
     "minimum_path_sum",
     "plus_one",
-    "add_binary"
+    "add_binary",
+    "climbing_stairs",
+    "edit_distance"
 ]
 
 [dependencies]
