@@ -59,7 +59,8 @@ members = [
     "remove_duplicates_from_sorted_list",
     "merge_sorted_array",
     "unique_binary_search_trees",
-    "validate_binary_search_tree"
+    "validate_binary_search_tree",
+    "binary_tree_level_order_traversal"
 ]
 
 [dependencies]
