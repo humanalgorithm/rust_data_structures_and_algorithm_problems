@@ -47,6 +47,10 @@ name = "group_anagrams"
 version = "0.1.0"
 
 [[package]]
+name = "insert_interval"
+version = "0.1.0"
+
+[[package]]
 name = "integer_to_roman"
 version = "0.1.0"
 

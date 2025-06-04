@@ -45,7 +45,8 @@ members = [
     "maximum_subarray",
     "spiral_matrix",
     "jump_game",
-    "merge_intervals"
+    "merge_intervals",
+    "insert_interval"
 ]
 
 [dependencies]

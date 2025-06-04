@@ -1,0 +1,11 @@
+[package]
+name = "insert_interval"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "insert_interval"
+path = "src/bin/execute.rs"
