@@ -1,0 +1,11 @@
+[package]
+name = "rotate_image"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "rotate_image"
+path = "src/bin/execute.rs"

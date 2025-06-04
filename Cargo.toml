@@ -39,7 +39,8 @@ members = [
     "combination_sum_ii",
     "jump_game_ii",
     "permutations",
-    "permutations_ii"
+    "permutations_ii",
+    "rotate_image"
 ]
 
 [dependencies]
