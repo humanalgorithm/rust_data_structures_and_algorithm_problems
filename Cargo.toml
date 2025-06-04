@@ -42,7 +42,8 @@ members = [
     "permutations_ii",
     "rotate_image",
     "group_anagrams",
-    "maximum_subarray"
+    "maximum_subarray",
+    "spiral_matrix"
 ]
 
 [dependencies]

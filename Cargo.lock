@@ -127,6 +127,10 @@ name = "search_insert_position"
 version = "0.1.0"
 
 [[package]]
+name = "spiral_matrix"
+version = "0.1.0"
+
+[[package]]
 name = "string_to_integer_atoi"
 version = "0.1.0"
 

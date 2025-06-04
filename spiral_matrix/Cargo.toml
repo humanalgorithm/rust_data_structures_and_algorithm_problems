@@ -1,0 +1,11 @@
+[package]
+name = "spiral_matrix"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "spiral_matrix"
+path = "src/bin/execute.rs"
