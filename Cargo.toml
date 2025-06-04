@@ -52,7 +52,8 @@ members = [
     "plus_one",
     "add_binary",
     "climbing_stairs",
-    "edit_distance"
+    "edit_distance",
+    "sort_colors"
 ]
 
 [dependencies]

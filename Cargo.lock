@@ -159,6 +159,10 @@ name = "search_insert_position"
 version = "0.1.0"
 
 [[package]]
+name = "sort_colors"
+version = "0.1.0"
+
+[[package]]
 name = "spiral_matrix"
 version = "0.1.0"
 

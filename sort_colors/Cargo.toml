@@ -1,0 +1,11 @@
+[package]
+name = "sort_colors"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "sort_colors"
+path = "src/bin/execute.rs"
