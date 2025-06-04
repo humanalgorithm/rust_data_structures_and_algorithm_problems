@@ -54,7 +54,8 @@ members = [
     "climbing_stairs",
     "edit_distance",
     "sort_colors",
-    "subsets"
+    "subsets",
+    "word_search"
 ]
 
 [dependencies]

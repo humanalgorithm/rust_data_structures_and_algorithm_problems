@@ -201,3 +201,7 @@ version = "0.1.0"
 [[package]]
 name = "valid_sudoku"
 version = "0.1.0"
+
+[[package]]
+name = "word_search"
+version = "0.1.0"
