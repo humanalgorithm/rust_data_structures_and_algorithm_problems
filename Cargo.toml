@@ -55,7 +55,8 @@ members = [
     "edit_distance",
     "sort_colors",
     "subsets",
-    "word_search"
+    "word_search",
+    "remove_duplicates_from_sorted_list"
 ]
 
 [dependencies]
