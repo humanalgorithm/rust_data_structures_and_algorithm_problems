@@ -46,7 +46,8 @@ members = [
     "spiral_matrix",
     "jump_game",
     "merge_intervals",
-    "insert_interval"
+    "insert_interval",
+    "unique_paths"
 ]
 
 [dependencies]
