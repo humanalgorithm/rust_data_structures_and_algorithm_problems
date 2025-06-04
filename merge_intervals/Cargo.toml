@@ -1,0 +1,11 @@
+[package]
+name = "merge_intervals"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "merge_intervals"
+path = "src/bin/execute.rs"

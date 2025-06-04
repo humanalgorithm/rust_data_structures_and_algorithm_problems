@@ -79,6 +79,10 @@ name = "maximum_subarray"
 version = "0.1.0"
 
 [[package]]
+name = "merge_intervals"
+version = "0.1.0"
+
+[[package]]
 name = "merge_two_sorted_lists"
 version = "0.1.0"
 
