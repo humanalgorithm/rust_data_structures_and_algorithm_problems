@@ -53,7 +53,8 @@ members = [
     "add_binary",
     "climbing_stairs",
     "edit_distance",
-    "sort_colors"
+    "sort_colors",
+    "subsets"
 ]
 
 [dependencies]
