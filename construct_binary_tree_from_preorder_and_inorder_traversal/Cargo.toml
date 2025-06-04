@@ -1,0 +1,11 @@
+[package]
+name = "construct_binary_tree_from_preorder_and_inorder_traversal"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "construct_binary_tree_from_preorder_and_inorder_traversal"
+path = "src/bin/execute.rs"

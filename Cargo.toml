@@ -60,7 +60,9 @@ members = [
     "merge_sorted_array",
     "unique_binary_search_trees",
     "validate_binary_search_tree",
-    "binary_tree_level_order_traversal"
+    "binary_tree_level_order_traversal",
+    "binary_tree_zigzag_level_order_traversal",
+    "construct_binary_tree_from_preorder_and_inorder_traversal"
 ]
 
 [dependencies]
