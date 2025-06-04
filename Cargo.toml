@@ -37,7 +37,9 @@ members = [
     "valid_sudoku",
     "combination_sum",
     "combination_sum_ii",
-    "jump_game_ii"
+    "jump_game_ii",
+    "permutations",
+    "permutations_ii"
 ]
 
 [dependencies]

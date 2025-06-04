@@ -79,6 +79,14 @@ name = "palindrome_number"
 version = "0.1.0"
 
 [[package]]
+name = "permutations"
+version = "0.1.0"
+
+[[package]]
+name = "permutations_ii"
+version = "0.1.0"
+
+[[package]]
 name = "remove_duplicates_from_sorted_array"
 version = "0.1.0"
 
