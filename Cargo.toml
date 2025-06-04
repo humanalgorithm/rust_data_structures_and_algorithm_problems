@@ -36,7 +36,8 @@ members = [
     "search_insert_position",
     "valid_sudoku",
     "combination_sum",
-    "combination_sum_ii"
+    "combination_sum_ii",
+    "jump_game_ii"
 ]
 
 [dependencies]

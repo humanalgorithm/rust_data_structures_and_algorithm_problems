@@ -1,5 +1,0 @@
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/libfour_sum-d17b5ec2669eed86.rmeta: four_sum/src/bin/execute.rs
-
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/four_sum-d17b5ec2669eed86.d: four_sum/src/bin/execute.rs
-
-four_sum/src/bin/execute.rs:

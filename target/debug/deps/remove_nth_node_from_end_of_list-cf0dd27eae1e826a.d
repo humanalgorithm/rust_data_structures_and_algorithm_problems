@@ -1,9 +1,0 @@
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/libremove_nth_node_from_end_of_list-cf0dd27eae1e826a.rmeta: remove_nth_node_from_end_of_list/src/lib.rs remove_nth_node_from_end_of_list/src/data.rs remove_nth_node_from_end_of_list/src/solution.rs
-
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/libremove_nth_node_from_end_of_list-cf0dd27eae1e826a.rlib: remove_nth_node_from_end_of_list/src/lib.rs remove_nth_node_from_end_of_list/src/data.rs remove_nth_node_from_end_of_list/src/solution.rs
-
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/remove_nth_node_from_end_of_list-cf0dd27eae1e826a.d: remove_nth_node_from_end_of_list/src/lib.rs remove_nth_node_from_end_of_list/src/data.rs remove_nth_node_from_end_of_list/src/solution.rs
-
-remove_nth_node_from_end_of_list/src/lib.rs:
-remove_nth_node_from_end_of_list/src/data.rs:
-remove_nth_node_from_end_of_list/src/solution.rs:

@@ -1,5 +1,0 @@
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/find_the_index_of_the_first_occurrence_in_a_string-411d60fa7301201b: find_the_index_of_the_first_occurrence_in_a_string/src/bin/execute.rs
-
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/find_the_index_of_the_first_occurrence_in_a_string-411d60fa7301201b.d: find_the_index_of_the_first_occurrence_in_a_string/src/bin/execute.rs
-
-find_the_index_of_the_first_occurrence_in_a_string/src/bin/execute.rs:

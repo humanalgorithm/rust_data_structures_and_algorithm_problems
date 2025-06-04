@@ -1,9 +1,0 @@
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/libremove_element-a192b7e63983d402.rmeta: remove_element/src/lib.rs remove_element/src/data.rs remove_element/src/solution.rs
-
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/libremove_element-a192b7e63983d402.rlib: remove_element/src/lib.rs remove_element/src/data.rs remove_element/src/solution.rs
-
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/remove_element-a192b7e63983d402.d: remove_element/src/lib.rs remove_element/src/data.rs remove_element/src/solution.rs
-
-remove_element/src/lib.rs:
-remove_element/src/data.rs:
-remove_element/src/solution.rs:

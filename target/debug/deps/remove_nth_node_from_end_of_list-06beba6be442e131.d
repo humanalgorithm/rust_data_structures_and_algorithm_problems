@@ -1,5 +1,0 @@
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/libremove_nth_node_from_end_of_list-06beba6be442e131.rmeta: remove_nth_node_from_end_of_list/src/bin/execute.rs
-
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/remove_nth_node_from_end_of_list-06beba6be442e131.d: remove_nth_node_from_end_of_list/src/bin/execute.rs
-
-remove_nth_node_from_end_of_list/src/bin/execute.rs:

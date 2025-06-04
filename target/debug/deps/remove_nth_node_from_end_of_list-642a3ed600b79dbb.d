@@ -1,5 +1,0 @@
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/remove_nth_node_from_end_of_list-642a3ed600b79dbb: remove_nth_node_from_end_of_list/src/bin/execute.rs
-
-/Users/michael/coding_env/data_structures_algorithms_rust/target/debug/deps/remove_nth_node_from_end_of_list-642a3ed600b79dbb.d: remove_nth_node_from_end_of_list/src/bin/execute.rs
-
-remove_nth_node_from_end_of_list/src/bin/execute.rs:
