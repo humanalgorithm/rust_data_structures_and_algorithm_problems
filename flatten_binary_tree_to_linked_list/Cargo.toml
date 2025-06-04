@@ -1,0 +1,11 @@
+[package]
+name = "flatten_binary_tree_to_linked_list"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "flatten_binary_tree_to_linked_list"
+path = "src/bin/execute.rs"
