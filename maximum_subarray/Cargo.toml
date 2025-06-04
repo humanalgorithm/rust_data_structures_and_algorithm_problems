@@ -1,0 +1,11 @@
+[package]
+name = "maximum_subarray"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "maximum_subarray"
+path = "src/bin/execute.rs"

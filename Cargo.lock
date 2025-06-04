@@ -43,6 +43,10 @@ name = "generate_parentheses"
 version = "0.1.0"
 
 [[package]]
+name = "group_anagrams"
+version = "0.1.0"
+
+[[package]]
 name = "integer_to_roman"
 version = "0.1.0"
 
@@ -64,6 +68,10 @@ version = "0.1.0"
 
 [[package]]
 name = "longest_substring_without_repeating_characters"
+version = "0.1.0"
+
+[[package]]
+name = "maximum_subarray"
 version = "0.1.0"
 
 [[package]]

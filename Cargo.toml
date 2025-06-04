@@ -40,7 +40,9 @@ members = [
     "jump_game_ii",
     "permutations",
     "permutations_ii",
-    "rotate_image"
+    "rotate_image",
+    "group_anagrams",
+    "maximum_subarray"
 ]
 
 [dependencies]
