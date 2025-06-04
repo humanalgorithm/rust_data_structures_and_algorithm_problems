@@ -99,6 +99,10 @@ name = "merge_intervals"
 version = "0.1.0"
 
 [[package]]
+name = "merge_sorted_array"
+version = "0.1.0"
+
+[[package]]
 name = "merge_two_sorted_lists"
 version = "0.1.0"
 
@@ -195,6 +199,10 @@ name = "two_sum"
 version = "0.1.0"
 
 [[package]]
+name = "unique_binary_search_trees"
+version = "0.1.0"
+
+[[package]]
 name = "unique_paths"
 version = "0.1.0"
 
@@ -204,6 +212,10 @@ version = "0.1.0"
 
 [[package]]
 name = "valid_sudoku"
+version = "0.1.0"
+
+[[package]]
+name = "validate_binary_search_tree"
 version = "0.1.0"
 
 [[package]]

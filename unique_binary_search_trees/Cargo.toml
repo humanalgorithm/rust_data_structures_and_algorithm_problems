@@ -1,0 +1,11 @@
+[package]
+name = "unique_binary_search_trees"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "unique_binary_search_trees"
+path = "src/bin/execute.rs"

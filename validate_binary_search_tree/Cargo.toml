@@ -1,0 +1,11 @@
+[package]
+name = "validate_binary_search_tree"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "validate_binary_search_tree"
+path = "src/bin/execute.rs"
