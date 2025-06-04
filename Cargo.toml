@@ -43,7 +43,8 @@ members = [
     "rotate_image",
     "group_anagrams",
     "maximum_subarray",
-    "spiral_matrix"
+    "spiral_matrix",
+    "jump_game"
 ]
 
 [dependencies]
