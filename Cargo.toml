@@ -48,7 +48,9 @@ members = [
     "merge_intervals",
     "insert_interval",
     "unique_paths",
-    "minimum_path_sum"
+    "minimum_path_sum",
+    "plus_one",
+    "add_binary"
 ]
 
 [dependencies]

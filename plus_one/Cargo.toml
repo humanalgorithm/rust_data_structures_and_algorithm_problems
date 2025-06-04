@@ -1,0 +1,11 @@
+[package]
+name = "plus_one"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "plus_one"
+path = "src/bin/execute.rs"

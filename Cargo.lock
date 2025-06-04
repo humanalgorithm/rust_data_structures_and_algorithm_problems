@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "add_binary"
+version = "0.1.0"
+
+[[package]]
 name = "add_two_numbers"
 version = "0.1.0"
 
@@ -108,6 +112,10 @@ version = "0.1.0"
 
 [[package]]
 name = "permutations_ii"
+version = "0.1.0"
+
+[[package]]
+name = "plus_one"
 version = "0.1.0"
 
 [[package]]
