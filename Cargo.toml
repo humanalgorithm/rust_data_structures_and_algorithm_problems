@@ -69,7 +69,8 @@ members = [
     "longest_consecutive_sequence",
     "word_break",
     "lru_cache",
-    "sort_list"
+    "sort_list",
+    "maximum_product_subarray"
 
 ]
 
