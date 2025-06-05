@@ -111,7 +111,8 @@ members = [
     "task_scheduler" ,
     "palindromic_substrings",
     "asteroid_collision",
-    "daily_temperatures"
+    "daily_temperatures",
+    "min_cost_climbing_stairs"
 ]
 
 [package]

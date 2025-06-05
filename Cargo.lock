@@ -294,6 +294,10 @@ name = "merge_two_sorted_lists"
 version = "0.1.0"
 
 [[package]]
+name = "min_cost_climbing_stairs"
+version = "0.1.0"
+
+[[package]]
 name = "min_stack"
 version = "0.1.0"
 
