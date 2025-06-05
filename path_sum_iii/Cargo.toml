@@ -1,0 +1,11 @@
+[package]
+name = "path_sum_iii"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "path_sum_iii"
+path = "src/bin/execute.rs"

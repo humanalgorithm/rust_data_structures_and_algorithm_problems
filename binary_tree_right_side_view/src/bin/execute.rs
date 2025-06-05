@@ -43,6 +43,6 @@ fn main() {
     case_2();
     println!("Running Case 3...");
     case_3();
-    println!("Running Case 3...");
+    println!("Running Case 4...");
     case_4();
 }

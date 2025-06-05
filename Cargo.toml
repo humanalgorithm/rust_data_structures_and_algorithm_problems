@@ -100,7 +100,8 @@ members = [
     "insert_delete_getrandom_o1",
     "decode_string",
     "fizz_buzz",
-    "partition_equal_subset_sum"
+    "partition_equal_subset_sum",
+    "path_sum_iii"
 ]
 
 [package]
