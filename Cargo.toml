@@ -91,7 +91,10 @@ members = [
     "game_of_life",
     "longest_increasing_subsequence",
     "coin_change",
-    "reconstruct_itinerary"
+    "reconstruct_itinerary",
+    "house_robber_iii",
+    "reverse_string",
+    "top_k_frequent_elements"
 ]
 
 [package]

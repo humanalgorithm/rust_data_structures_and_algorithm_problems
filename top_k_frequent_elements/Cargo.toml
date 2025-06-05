@@ -1,0 +1,11 @@
+[package]
+name = "top_k_frequent_elements"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "top_k_frequent_elements"
+path = "src/bin/execute.rs"
