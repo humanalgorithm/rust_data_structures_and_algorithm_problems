@@ -72,7 +72,8 @@ members = [
     "sort_list",
     "maximum_product_subarray",
     "min_stack",
-    "reverse_words_in_a_string_ii"
+    "reverse_words_in_a_string_ii",
+    "rotate_array"
 
 ]
 

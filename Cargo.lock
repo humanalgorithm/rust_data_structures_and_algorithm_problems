@@ -195,6 +195,10 @@ name = "roman_to_integer"
 version = "0.1.0"
 
 [[package]]
+name = "rotate_array"
+version = "0.1.0"
+
+[[package]]
 name = "rotate_image"
 version = "0.1.0"
 
