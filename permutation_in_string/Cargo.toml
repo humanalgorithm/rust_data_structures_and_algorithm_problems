@@ -1,0 +1,11 @@
+[package]
+name = "permutation_in_string"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "permutation_in_string"
+path = "src/bin/execute.rs"

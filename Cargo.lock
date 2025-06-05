@@ -322,6 +322,10 @@ name = "perfect_squares"
 version = "0.1.0"
 
 [[package]]
+name = "permutation_in_string"
+version = "0.1.0"
+
+[[package]]
 name = "permutations"
 version = "0.1.0"
 

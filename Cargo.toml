@@ -105,7 +105,8 @@ members = [
     "find_all_anagrams_in_a_string",
     "target_sum",
     "diameter_of_binary_tree",
-    "subarray_sum_equals_k"
+    "subarray_sum_equals_k",
+    "permutation_in_string"
 ]
 
 [package]
