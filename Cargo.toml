@@ -76,7 +76,8 @@ members = [
     "rotate_array",
     "house_robber",
     "binary_tree_right_side_view",
-    "number_of_islands"
+    "number_of_islands",
+    "reverse_linked_list"
 
 ]
 
