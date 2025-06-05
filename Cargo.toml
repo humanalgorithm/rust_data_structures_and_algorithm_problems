@@ -84,7 +84,8 @@ members = [
     "search_a_2d_matrix_ii",
     "valid_anagram",
     "meeting_rooms_ii",
-    "palindrome_permutation"
+    "palindrome_permutation",
+    "perfect_squares"
 ]
 
 [package]
