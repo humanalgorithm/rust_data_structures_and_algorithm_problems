@@ -82,7 +82,9 @@ members = [
     "lowest_common_ancestor_of_a_binary_tree",
     "product_of_array_except_self",
     "search_a_2d_matrix_ii",
-    "valid_anagram"
+    "valid_anagram",
+    "meeting_rooms_ii",
+    "palindrome_permutation"
 ]
 
 [package]

@@ -1,0 +1,12 @@
+[package]
+name = "meeting_rooms_ii"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+itertools = "0.14.0"
+
+
+[[bin]]
+name = "meeting_rooms_ii"
+path = "src/bin/execute.rs"
