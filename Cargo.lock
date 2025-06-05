@@ -75,6 +75,10 @@ name = "data_structures_algorithms_rust_2"
 version = "0.1.0"
 
 [[package]]
+name = "decode_string"
+version = "0.1.0"
+
+[[package]]
 name = "design_tic_tac_toe"
 version = "0.1.0"
 

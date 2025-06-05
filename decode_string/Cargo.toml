@@ -1,0 +1,11 @@
+[package]
+name = "decode_string"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "decode_string"
+path = "src/bin/execute.rs"
