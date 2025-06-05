@@ -79,7 +79,8 @@ members = [
     "maximal_square",
     "invert_binary_tree",
     "kth_smallest_element_in_a_bst",
-    "lowest_common_ancestor_of_a_binary_tree"
+    "lowest_common_ancestor_of_a_binary_tree",
+    "product_of_array_except_self"
 ]
 
 [package]

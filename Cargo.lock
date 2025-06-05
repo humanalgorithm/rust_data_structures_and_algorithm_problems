@@ -211,6 +211,10 @@ name = "plus_one"
 version = "0.1.0"
 
 [[package]]
+name = "product_of_array_except_self"
+version = "0.1.0"
+
+[[package]]
 name = "remove_duplicates_from_sorted_array"
 version = "0.1.0"
 
