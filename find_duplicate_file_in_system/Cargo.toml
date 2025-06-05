@@ -1,0 +1,11 @@
+[package]
+name = "find_duplicate_file_in_system"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "find_duplicate_file_in_system"
+path = "src/bin/execute.rs"

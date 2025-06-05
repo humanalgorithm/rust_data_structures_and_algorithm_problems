@@ -106,7 +106,8 @@ members = [
     "target_sum",
     "diameter_of_binary_tree",
     "subarray_sum_equals_k",
-    "permutation_in_string"
+    "permutation_in_string",
+    "find_duplicate_file_in_system"
 ]
 
 [package]

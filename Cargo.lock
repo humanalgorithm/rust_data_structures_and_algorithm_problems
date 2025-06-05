@@ -105,6 +105,10 @@ name = "find_all_anagrams_in_a_string"
 version = "0.1.0"
 
 [[package]]
+name = "find_duplicate_file_in_system"
+version = "0.1.0"
+
+[[package]]
 name = "find_first_and_last_position_of_element_in_sorted_array"
 version = "0.1.0"
 
