@@ -85,7 +85,8 @@ members = [
     "valid_anagram",
     "meeting_rooms_ii",
     "palindrome_permutation",
-    "perfect_squares"
+    "perfect_squares",
+    "move_zeroes"
 ]
 
 [package]
