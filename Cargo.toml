@@ -110,7 +110,8 @@ members = [
     "find_duplicate_file_in_system",
     "task_scheduler" ,
     "palindromic_substrings",
-    "asteroid_collision"
+    "asteroid_collision",
+    "daily_temperatures"
 ]
 
 [package]
