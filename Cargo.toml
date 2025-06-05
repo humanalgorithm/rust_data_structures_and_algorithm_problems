@@ -74,7 +74,8 @@ members = [
     "reverse_linked_list",
     "course_schedule",
     "implement_trie_prefix_tree",
-    "course_schedule_ii"
+    "course_schedule_ii",
+    "kth_largest_element_in_an_array"
 ]
 
 [package]

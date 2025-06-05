@@ -1,0 +1,11 @@
+[package]
+name = "kth_largest_element_in_an_array"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "kth_largest_element_in_an_array"
+path = "src/bin/execute.rs"
