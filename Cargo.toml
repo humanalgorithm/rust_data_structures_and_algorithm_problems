@@ -71,7 +71,8 @@ members = [
     "lru_cache",
     "sort_list",
     "maximum_product_subarray",
-    "min_stack"
+    "min_stack",
+    "reverse_words_in_a_string_ii"
 
 ]
 
