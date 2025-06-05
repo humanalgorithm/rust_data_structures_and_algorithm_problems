@@ -104,7 +104,8 @@ members = [
     "path_sum_iii",
     "find_all_anagrams_in_a_string",
     "target_sum",
-    "diameter_of_binary_tree"
+    "diameter_of_binary_tree",
+    "subarray_sum_equals_k"
 ]
 
 [package]

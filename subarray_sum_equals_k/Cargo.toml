@@ -1,0 +1,11 @@
+[package]
+name = "subarray_sum_equals_k"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "subarray_sum_equals_k"
+path = "src/bin/execute.rs"

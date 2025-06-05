@@ -476,6 +476,10 @@ name = "string_to_integer_atoi"
 version = "0.1.0"
 
 [[package]]
+name = "subarray_sum_equals_k"
+version = "0.1.0"
+
+[[package]]
 name = "subsets"
 version = "0.1.0"
 
