@@ -302,6 +302,10 @@ name = "palindrome_permutation"
 version = "0.1.0"
 
 [[package]]
+name = "partition_equal_subset_sum"
+version = "0.1.0"
+
+[[package]]
 name = "perfect_squares"
 version = "0.1.0"
 

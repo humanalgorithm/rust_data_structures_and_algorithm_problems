@@ -1,0 +1,11 @@
+[package]
+name = "partition_equal_subset_sum"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "partition_equal_subset_sum"
+path = "src/bin/execute.rs"
