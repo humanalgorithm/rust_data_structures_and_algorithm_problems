@@ -1,0 +1,11 @@
+[package]
+name = "implement_trie_prefix_tree"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "implement_trie_prefix_tree"
+path = "src/bin/execute.rs"

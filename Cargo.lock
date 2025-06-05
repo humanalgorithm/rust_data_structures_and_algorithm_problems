@@ -91,6 +91,10 @@ name = "house_robber"
 version = "0.1.0"
 
 [[package]]
+name = "implement_trie_prefix_tree"
+version = "0.1.0"
+
+[[package]]
 name = "insert_interval"
 version = "0.1.0"
 
