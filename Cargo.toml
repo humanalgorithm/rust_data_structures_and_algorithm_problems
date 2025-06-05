@@ -74,7 +74,9 @@ members = [
     "min_stack",
     "reverse_words_in_a_string_ii",
     "rotate_array",
-    "house_robber"
+    "house_robber",
+    "binary_tree_right_side_view",
+    "number_of_islands"
 
 ]
 
