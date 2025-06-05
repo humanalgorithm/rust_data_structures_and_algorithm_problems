@@ -70,7 +70,8 @@ members = [
     "word_break",
     "lru_cache",
     "sort_list",
-    "maximum_product_subarray"
+    "maximum_product_subarray",
+    "min_stack"
 
 ]
 
