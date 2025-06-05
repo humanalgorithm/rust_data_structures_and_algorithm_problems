@@ -95,7 +95,9 @@ members = [
     "house_robber_iii",
     "reverse_string",
     "top_k_frequent_elements",
-    "design_tic_tac_toe"
+    "design_tic_tac_toe",
+    "find_leaves_of_binary_tree",
+    "insert_delete_getrandom_o1"
 ]
 
 [package]
