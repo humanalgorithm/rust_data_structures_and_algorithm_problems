@@ -76,7 +76,8 @@ members = [
     "implement_trie_prefix_tree",
     "course_schedule_ii",
     "kth_largest_element_in_an_array",
-    "maximal_square"
+    "maximal_square",
+    "invert_binary_tree"
 ]
 
 [package]
