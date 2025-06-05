@@ -86,7 +86,8 @@ members = [
     "meeting_rooms_ii",
     "palindrome_permutation",
     "perfect_squares",
-    "move_zeroes"
+    "move_zeroes",
+    "find_the_duplicate_number"
 ]
 
 [package]
