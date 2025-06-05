@@ -123,6 +123,10 @@ name = "kth_largest_element_in_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "kth_smallest_element_in_a_bst"
+version = "0.1.0"
+
+[[package]]
 name = "letter_combinations_of_a_phone_number"
 version = "0.1.0"
 
@@ -140,6 +144,10 @@ version = "0.1.0"
 
 [[package]]
 name = "longest_substring_without_repeating_characters"
+version = "0.1.0"
+
+[[package]]
+name = "lowest_common_ancestor_of_a_binary_tree"
 version = "0.1.0"
 
 [[package]]

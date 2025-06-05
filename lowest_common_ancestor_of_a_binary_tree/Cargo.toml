@@ -1,0 +1,11 @@
+[package]
+name = "lowest_common_ancestor_of_a_binary_tree"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "lowest_common_ancestor_of_a_binary_tree"
+path = "src/bin/execute.rs"

@@ -77,7 +77,9 @@ members = [
     "course_schedule_ii",
     "kth_largest_element_in_an_array",
     "maximal_square",
-    "invert_binary_tree"
+    "invert_binary_tree",
+    "kth_smallest_element_in_a_bst",
+    "lowest_common_ancestor_of_a_binary_tree"
 ]
 
 [package]
