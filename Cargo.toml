@@ -75,7 +75,8 @@ members = [
     "course_schedule",
     "implement_trie_prefix_tree",
     "course_schedule_ii",
-    "kth_largest_element_in_an_array"
+    "kth_largest_element_in_an_array",
+    "maximal_square"
 ]
 
 [package]

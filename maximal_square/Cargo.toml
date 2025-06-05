@@ -1,0 +1,11 @@
+[package]
+name = "maximal_square"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "maximal_square"
+path = "src/bin/execute.rs"
