@@ -1,0 +1,11 @@
+[package]
+name = "lru_cache"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "lru_cache"
+path = "src/bin/execute.rs"

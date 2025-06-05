@@ -115,6 +115,10 @@ name = "longest_substring_without_repeating_characters"
 version = "0.1.0"
 
 [[package]]
+name = "lru_cache"
+version = "0.1.0"
+
+[[package]]
 name = "maximum_subarray"
 version = "0.1.0"
 
