@@ -80,7 +80,8 @@ members = [
     "invert_binary_tree",
     "kth_smallest_element_in_a_bst",
     "lowest_common_ancestor_of_a_binary_tree",
-    "product_of_array_except_self"
+    "product_of_array_except_self",
+    "search_a_2d_matrix_ii"
 ]
 
 [package]
