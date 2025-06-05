@@ -68,7 +68,8 @@ members = [
     "word_ladder",
     "longest_consecutive_sequence",
     "word_break",
-    "lru_cache"
+    "lru_cache",
+    "sort_list"
 
 ]
 
