@@ -1,0 +1,11 @@
+[package]
+name = "asteroid_collision"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "asteroid_collision"
+path = "src/bin/execute.rs"

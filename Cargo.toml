@@ -108,7 +108,9 @@ members = [
     "subarray_sum_equals_k",
     "permutation_in_string",
     "find_duplicate_file_in_system",
-    "task_scheduler"
+    "task_scheduler" ,
+    "palindromic_substrings",
+    "asteroid_collision"
 ]
 
 [package]

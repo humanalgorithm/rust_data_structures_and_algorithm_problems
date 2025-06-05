@@ -1,0 +1,11 @@
+[package]
+name = "palindromic_substrings"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "palindromic_substrings"
+path = "src/bin/execute.rs"

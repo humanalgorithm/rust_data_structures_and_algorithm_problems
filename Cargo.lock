@@ -11,6 +11,10 @@ name = "add_two_numbers"
 version = "0.1.0"
 
 [[package]]
+name = "asteroid_collision"
+version = "0.1.0"
+
+[[package]]
 name = "best_time_to_buy_and_sell_stock"
 version = "0.1.0"
 
@@ -311,6 +315,10 @@ version = "0.1.0"
 
 [[package]]
 name = "palindrome_permutation"
+version = "0.1.0"
+
+[[package]]
+name = "palindromic_substrings"
 version = "0.1.0"
 
 [[package]]
