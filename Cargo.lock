@@ -162,6 +162,10 @@ name = "longest_consecutive_sequence"
 version = "0.1.0"
 
 [[package]]
+name = "longest_increasing_subsequence"
+version = "0.1.0"
+
+[[package]]
 name = "longest_palindromic_substring"
 version = "0.1.0"
 

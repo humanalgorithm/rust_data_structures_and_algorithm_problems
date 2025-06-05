@@ -1,0 +1,11 @@
+[package]
+name = "longest_increasing_subsequence"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "longest_increasing_subsequence"
+path = "src/bin/execute.rs"

@@ -88,7 +88,8 @@ members = [
     "perfect_squares",
     "move_zeroes",
     "find_the_duplicate_number",
-    "game_of_life"
+    "game_of_life",
+    "longest_increasing_subsequence"
 ]
 
 [package]
