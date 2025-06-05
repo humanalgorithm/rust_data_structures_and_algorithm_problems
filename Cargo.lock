@@ -93,6 +93,10 @@ name = "four_sum"
 version = "0.1.0"
 
 [[package]]
+name = "game_of_life"
+version = "0.1.0"
+
+[[package]]
 name = "generate_parentheses"
 version = "0.1.0"
 

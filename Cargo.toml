@@ -87,7 +87,8 @@ members = [
     "palindrome_permutation",
     "perfect_squares",
     "move_zeroes",
-    "find_the_duplicate_number"
+    "find_the_duplicate_number",
+    "game_of_life"
 ]
 
 [package]

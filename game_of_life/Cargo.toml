@@ -1,0 +1,11 @@
+[package]
+name = "game_of_life"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "game_of_life"
+path = "src/bin/execute.rs"
