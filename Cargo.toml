@@ -101,7 +101,8 @@ members = [
     "decode_string",
     "fizz_buzz",
     "partition_equal_subset_sum",
-    "path_sum_iii"
+    "path_sum_iii",
+    "find_all_anagrams_in_a_string"
 ]
 
 [package]
