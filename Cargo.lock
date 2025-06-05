@@ -311,6 +311,10 @@ name = "unique_paths"
 version = "0.1.0"
 
 [[package]]
+name = "valid_anagram"
+version = "0.1.0"
+
+[[package]]
 name = "valid_parentheses"
 version = "0.1.0"
 
