@@ -47,6 +47,10 @@ name = "container_with_most_water"
 version = "0.1.0"
 
 [[package]]
+name = "course_schedule"
+version = "0.1.0"
+
+[[package]]
 name = "data_structures_algorithms_rust_2"
 version = "0.1.0"
 
