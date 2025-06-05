@@ -1,0 +1,11 @@
+[package]
+name = "task_scheduler"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "task_scheduler"
+path = "src/bin/execute.rs"

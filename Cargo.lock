@@ -511,6 +511,10 @@ name = "target_sum"
 version = "0.1.0"
 
 [[package]]
+name = "task_scheduler"
+version = "0.1.0"
+
+[[package]]
 name = "three_sum"
 version = "0.1.0"
 
