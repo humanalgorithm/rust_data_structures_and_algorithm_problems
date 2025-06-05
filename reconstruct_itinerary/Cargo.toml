@@ -1,0 +1,11 @@
+[package]
+name = "reconstruct_itinerary"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "reconstruct_itinerary"
+path = "src/bin/execute.rs"

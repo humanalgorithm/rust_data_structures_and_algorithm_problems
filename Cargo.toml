@@ -90,7 +90,8 @@ members = [
     "find_the_duplicate_number",
     "game_of_life",
     "longest_increasing_subsequence",
-    "coin_change"
+    "coin_change",
+    "reconstruct_itinerary"
 ]
 
 [package]
