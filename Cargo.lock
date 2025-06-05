@@ -83,6 +83,10 @@ name = "design_tic_tac_toe"
 version = "0.1.0"
 
 [[package]]
+name = "diameter_of_binary_tree"
+version = "0.1.0"
+
+[[package]]
 name = "divide_two_integers"
 version = "0.1.0"
 

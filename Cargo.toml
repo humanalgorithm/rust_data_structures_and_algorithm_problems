@@ -103,7 +103,8 @@ members = [
     "partition_equal_subset_sum",
     "path_sum_iii",
     "find_all_anagrams_in_a_string",
-    "target_sum"
+    "target_sum",
+    "diameter_of_binary_tree"
 ]
 
 [package]
