@@ -1,0 +1,11 @@
+[package]
+name = "design_tic_tac_toe"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "design_tic_tac_toe"
+path = "src/bin/execute.rs"

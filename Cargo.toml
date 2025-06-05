@@ -94,7 +94,8 @@ members = [
     "reconstruct_itinerary",
     "house_robber_iii",
     "reverse_string",
-    "top_k_frequent_elements"
+    "top_k_frequent_elements",
+    "design_tic_tac_toe"
 ]
 
 [package]
