@@ -31,6 +31,10 @@ name = "climbing_stairs"
 version = "0.1.0"
 
 [[package]]
+name = "coin_change"
+version = "0.1.0"
+
+[[package]]
 name = "combination_sum"
 version = "0.1.0"
 

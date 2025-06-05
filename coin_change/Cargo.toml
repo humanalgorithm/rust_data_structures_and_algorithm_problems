@@ -1,0 +1,11 @@
+[package]
+name = "coin_change"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "coin_change"
+path = "src/bin/execute.rs"
