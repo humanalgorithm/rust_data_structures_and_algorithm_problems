@@ -73,7 +73,8 @@ members = [
     "maximum_product_subarray",
     "min_stack",
     "reverse_words_in_a_string_ii",
-    "rotate_array"
+    "rotate_array",
+    "house_robber"
 
 ]
 

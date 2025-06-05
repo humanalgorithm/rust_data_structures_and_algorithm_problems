@@ -1,0 +1,11 @@
+[package]
+name = "house_robber"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "house_robber"
+path = "src/bin/execute.rs"
