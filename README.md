@@ -1,4 +1,5 @@
 # Data Structures and Algorithm Problems in Rust
+I created this project to demonstrate solutions to data structure and algorithm problems. This repo provides solutions using Rust while the repo [python_data_structures_and_algorithms_problems](https://github.com/humanalgorithm/python_data_structures_and_algorithms_problems) solves them using Python. 
 
 # File Structure
 
