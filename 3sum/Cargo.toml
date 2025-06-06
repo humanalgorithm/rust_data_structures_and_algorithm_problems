@@ -1,5 +1,5 @@
 [package]
-name = "four_sum"
+name = "3_sum"
 version = "0.1.0"
 edition = "2024"
 
@@ -7,5 +7,5 @@ edition = "2024"
 
 
 [[bin]]
-name = "four_sum"
+name = "3_sum"
 path = "src/bin/execute.rs"
