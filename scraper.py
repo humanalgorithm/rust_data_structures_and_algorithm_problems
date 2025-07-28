@@ -69,9 +69,16 @@ try:
         description_div = driver.find_element(
             By.CSS_SELECTOR, 'div[data-track-load="description_content"]')
 
-    # Save the inner HTML of the description
-
+        # can't have package names start with number in Rust
         problem_underscore = problem.replace('-', '_')
+        match problem:
+            case "4sum":
+                problem_underscore = "four_sum"
+            case "3sum":
+                problem_underscore = "three_sum"
+            case "3sum_closest":
+                problem_underscore = "three_sum_closest"
+
         filename = "./" + problem_underscore + "/description.html"
         print(filename)
         with open(filename, "w", encoding="utf-8") as f:
