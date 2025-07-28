@@ -68,7 +68,7 @@ try:
         # Find the div with data_track_load="description_content"
         description_div = driver.find_element(
             By.CSS_SELECTOR, 'div[data-track-load="description_content"]')
-
+ 
         # can't have package names start with number in Rust
         problem_underscore = problem.replace('-', '_')
         match problem:
